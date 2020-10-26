@@ -1,6 +1,7 @@
 # Connect-four-Samsung-TV
 
-Simple Connect four game for testing HTML + Javascript applications on Samsung Smart TVs
+Simple Connect Four game for testing HTML + Javascript applications on Samsung Smart TVs.
+This project has been developed under the Tizen Studio environment.
 
 
 ### Example in Samsung Tizen TV Web Simulator
